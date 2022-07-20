@@ -1,8 +1,12 @@
 <?php
 
-echo "hi\n";
+$a = "111";
 
-echo "hallo\n";
+echo $a." hi\n";
+
+$a = "222";
+
+echo $a." hallo\n";
 
 echo "hello";
 
